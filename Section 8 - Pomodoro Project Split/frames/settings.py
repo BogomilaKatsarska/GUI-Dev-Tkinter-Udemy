@@ -94,5 +94,5 @@ class Settings(ttk.Frame):
             style='PomodoroButton.TButton',
             cursor='hand2',
         )
-        
+
         timer_button.grid(column=0, row=0, sticky='EW', padx=2)
